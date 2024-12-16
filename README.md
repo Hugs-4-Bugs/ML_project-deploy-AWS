@@ -1,7 +1,6 @@
 
 
-### **Step-by-Step Deployment Guide for AWS EC2**
-
+## **Step-by-Step Deployment Guide for AWS EC2**
 
 
 ### **Step 1: Launch an EC2 Instance**
